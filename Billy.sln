@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billy", "Billy\Billy.csproj", "{68E3F817-2175-456A-9FDD-A3EFFFC69D85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillyTest", "BillyTest\BillyTest.csproj", "{2FCA7DD7-BECF-4CB9-A9DD-531C2B9D6BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68E3F817-2175-456A-9FDD-A3EFFFC69D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E3F817-2175-456A-9FDD-A3EFFFC69D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E3F817-2175-456A-9FDD-A3EFFFC69D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E3F817-2175-456A-9FDD-A3EFFFC69D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCA7DD7-BECF-4CB9-A9DD-531C2B9D6BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCA7DD7-BECF-4CB9-A9DD-531C2B9D6BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCA7DD7-BECF-4CB9-A9DD-531C2B9D6BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCA7DD7-BECF-4CB9-A9DD-531C2B9D6BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
